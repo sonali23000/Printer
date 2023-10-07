@@ -47,7 +47,9 @@ public class Printer {
 		        int addition = number1 + number2;
 		        double division = (double) number1 / number2; // Casting to double for accurate division
 		        int subtraction = number1 - number2;
-
+		        
+		        
+                // Print addition,division and sub for Repeat 10-12 .
 		        System.out.println(number1 + " + " + number2 + " = " + addition);
 		        System.out.println(number1 + " / " + number2 + " = " + division);
 		        System.out.println(number1 + " - " + number2 + " = " + subtraction);
