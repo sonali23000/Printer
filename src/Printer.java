@@ -37,7 +37,7 @@ public class Printer {
 		        // 10. Declare an integer typed variable called multiplication.
 		        int multiplication;
 
-		        // 11. Multiply number1 and number2 .
+		        // 11.Now Multiply number1 and number2 .
 		        multiplication = number1 * number2;
 
 		        // 12. Print “5 * 2 = 10” to the console.
